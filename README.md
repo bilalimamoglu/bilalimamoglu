@@ -1,23 +1,35 @@
 <h1 align="center">Bilal Imamoglu</h1>
 <p align="center">
-  Systems-oriented engineer based in Berlin
+  I build AI systems and the infrastructure around them
 </p>
 
 ---
 
 ## About
 
-My work sits at the intersection of machine learning, infrastructure, and product development. I enjoy building systems that are both technically sound and genuinely useful in the real world.
+I like working on systems where different pieces depend on each other.
 
-Over the years, I have worked across startups, scale-ups, and large production environments, helping design ML pipelines, AI services, and cloud infrastructure that operate reliably at scale. Earlier in my career, I contributed to machine learning pipelines that trained thousands of models for large-scale personalization systems. Later, I worked on cloud infrastructure and database platforms inside complex production environments.
+Sometimes it's a model, sometimes it's a pipeline, sometimes it's just a messy setup that needs to run reliably. What I enjoy is figuring out how everything connects and making it work in practice.
 
-Part of my work also comes from academic research, where I explored how historical gender inequality can be detected in written language using NLP models. That project sat at the intersection of language, history, and machine learning, and it continues to shape how I think about complex systems today.
+I started with machine learning, mostly pipelines and model workflows. After a while I got more interested in how these systems actually run. Deployments, data flows, failures, all the things that don’t show up in a notebook.
 
-Coming from a background that blends technology and business, I tend to approach engineering through systems thinking. I am interested in how systems evolve, how they scale, and how ideas become real products.
+At Insider, I worked on large-scale ML pipelines. We had a lot of models running in parallel, and keeping things stable was a big part of the job. Later, I moved more into infrastructure and worked on AWS systems, database migrations, and CI/CD setups.
+
+These days I think a lot about:
+
+- how AI systems behave in production  
+- where time gets wasted in developer workflows  
+- how to keep systems simple even when they grow  
+
+I also build side projects.
+
+Mostly tools I wish existed while working. Small ideas that turn into something usable.
 
 ## Beyond Engineering
 
-Outside of engineering, I enjoy designing things, experimenting with photography, and occasionally organizing creative gatherings. I like bringing people together around ideas, art, and curiosity.
+Outside of work, I like designing things, taking photos, and organizing small events.
+
+I enjoy environments where people share ideas and build things together.
 
 ## Connect
 
